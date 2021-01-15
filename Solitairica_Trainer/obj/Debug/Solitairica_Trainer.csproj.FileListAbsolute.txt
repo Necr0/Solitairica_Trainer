@@ -1,0 +1,15 @@
+C:\Users\aabdo\source\repos\Solitairica_Trainer\Solitairica_Trainer\bin\Debug\Solitairica_Trainer.exe.config
+C:\Users\aabdo\source\repos\Solitairica_Trainer\Solitairica_Trainer\bin\Debug\Solitairica_Trainer.exe
+C:\Users\aabdo\source\repos\Solitairica_Trainer\Solitairica_Trainer\bin\Debug\Solitairica_Trainer.pdb
+C:\Users\aabdo\source\repos\Solitairica_Trainer\Solitairica_Trainer\bin\Debug\Memory.dll
+C:\Users\aabdo\source\repos\Solitairica_Trainer\Solitairica_Trainer\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\aabdo\source\repos\Solitairica_Trainer\Solitairica_Trainer\bin\Debug\Memory.xml
+C:\Users\aabdo\source\repos\Solitairica_Trainer\Solitairica_Trainer\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\aabdo\source\repos\Solitairica_Trainer\Solitairica_Trainer\obj\Debug\Solitairica_Trainer.csprojAssemblyReference.cache
+C:\Users\aabdo\source\repos\Solitairica_Trainer\Solitairica_Trainer\obj\Debug\Solitairica_Trainer.Form1.resources
+C:\Users\aabdo\source\repos\Solitairica_Trainer\Solitairica_Trainer\obj\Debug\Solitairica_Trainer.Properties.Resources.resources
+C:\Users\aabdo\source\repos\Solitairica_Trainer\Solitairica_Trainer\obj\Debug\Solitairica_Trainer.csproj.GenerateResource.cache
+C:\Users\aabdo\source\repos\Solitairica_Trainer\Solitairica_Trainer\obj\Debug\Solitairica_Trainer.csproj.CoreCompileInputs.cache
+C:\Users\aabdo\source\repos\Solitairica_Trainer\Solitairica_Trainer\obj\Debug\Solitairica_Trainer.csproj.CopyComplete
+C:\Users\aabdo\source\repos\Solitairica_Trainer\Solitairica_Trainer\obj\Debug\Solitairica_Trainer.exe
+C:\Users\aabdo\source\repos\Solitairica_Trainer\Solitairica_Trainer\obj\Debug\Solitairica_Trainer.pdb
